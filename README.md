@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi There! I'm Sarah, a Software Engineer specializing in ML + Data Field
 
-I have 4+ years of full-time Software Engineering in both Applied Machine Learning, and also originally Full-Stack Development. While I have a wide-range of expertise across many areas of the tech stack, I am currently pursuing my Masters in Computer Science - Machine Learning at Georgia Institute of Technology to specialize in the Data world.
+I have 4+ years of full-time Software Engineering experience in both Applied Machine Learning, and also originally Full-Stack Development. While I have a wide-range of expertise across many areas of the tech stack, I am currently pursuing my Masters in Computer Science - Machine Learning at Georgia Institute of Technology to specialize in the Data world.
 
 
 #### 🛠️ Tools |
