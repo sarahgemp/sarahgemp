@@ -30,7 +30,7 @@ I have 4+ years of full-time Software Engineering experience at Yelp, where I wo
 5. Deep Learning Seminar (PyTorch, Jupyter)
 
 #### ⚡Projects |
-Look pretty empty here? Most of my projects have been done in private Company repos/school repos. Please check out my old Github for some past projects. https://github.com/sarahgemp04
+Look pretty empty here? Most of my projects have been done in private Company repos/school repos. Please check out my old Github for some past projects, or reach out for my resume to see more details! https://github.com/sarahgemp04
 
 #### 👯 Connect with me |
 On [LinkedIn](https://www.linkedin.com/in/sarahgemp)
