@@ -18,9 +18,9 @@ I have 4+ years of full-time Software Engineering experience at Yelp, where I wo
 
 
 #### 🛠️ Tools |
-- Language: Python, Java, C++, C, JavaScript, SQL, 
-- Data / Machine Learning: PySpark, PyTorch, Tensorflow, scikit-learn, JupyterLab, Tableau, XGBoost, Google Cloud, Azure, D3, SQLite, MLFlow
-- Web: React/React Context, Redux, GraphQL, NextJS, JavaScript, HTML, CSS
+- **Language:** Python, Java, C++, C, JavaScript, SQL, 
+- **Data / Machine Learning:** PySpark, PyTorch, Tensorflow, scikit-learn, JupyterLab, Tableau, XGBoost, Google Cloud, Azure, D3, SQLite, MLFlow
+- **Web:** React/React Context, Redux, GraphQL, NextJS, JavaScript, HTML, CSS
 
 #### 🔭 Revelvant Classes |
 1. Artificial Intelligence (python, Jupyter)
