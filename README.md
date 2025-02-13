@@ -24,7 +24,7 @@ I have 4+ years of full-time Software Engineering experience in both Applied Mac
 
 #### 🔭 Relevant Classes |
 1. Artificial Intelligence (python, Jupyter)
-2. Data Analysis & Vizualizatin (python, SQL, D3.js, HTML, JavaScript)
+2. Data Analysis & Visualization (python, SQL, D3.js, HTML, JavaScript)
 3. Machine Learning (python, scikit-learn, Tensorflow, PyTorch, Jupyter)
 4. Machine Learning for Trading (python, scikit-learn, Jupyter, Financial Topics)
 5. Deep Learning Seminar (PyTorch, Jupyter)
